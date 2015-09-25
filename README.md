@@ -2,4 +2,4 @@
 
 ## Description:
 
-Flex2Luadch will help you convert the user database from Flexhub to Luadch.
+Flex2Luadch will convert the user database from Flexhub to Luadch.
