@@ -182,9 +182,7 @@ namespace Flex2Luadch
                     {
                         writer.WriteLine(
                             "    { " +
-                            "badpassword = 0, " +
-                            "lastconnect = 0, " +
-                            "by = \"" + account.ReggedBy + " (F)\", " +
+                            "by = \"" + account.ReggedBy.Replace(" ", "") + "_(F)\", " +
                             "date = \"" + UnixTimeToDate(account.RegDate) + "\", " +
                             "level = " + GetLevel(account.Profile) + ", " +
                             "nick = \"" + account.Nick + "\", " +
