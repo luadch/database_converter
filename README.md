@@ -1,5 +1,5 @@
-# Flex2Luadch by Sopor
+# Flex2Luadch
 
 ## Description:
 
-add here your app description
+Flex2Luadch will help you convert the user database from Flexhub to Luadch.
