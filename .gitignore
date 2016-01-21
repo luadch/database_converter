@@ -1,1 +1,3 @@
 *.suo
+/database_converter/bin
+/database_converter/obj
