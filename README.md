@@ -1,12 +1,12 @@
-#Luadch database converter
+# Luadch database converter
 
-##Description:
+## Description:
 
 * Luadch database converter will convert the user database to Luadch.
 
 * Support for custom profiles.
 
-##To do
+## To do
 
 - [ ] ADCH++ to Luadch
 - [ ] Aquila to Luadch
